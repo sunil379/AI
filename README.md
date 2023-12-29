@@ -1,3 +1,4 @@
 # AI
 AI practicals
-9th practical is theoretical.
+<br>
+* 9th practical is theoretical.
